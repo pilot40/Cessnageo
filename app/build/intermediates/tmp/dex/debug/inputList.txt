@@ -1,0 +1,1 @@
+/home/pilot/AndroidStudioProjects/Cessnageo/app/build/intermediates/classes/debug

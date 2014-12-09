@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cessna208B</string>
+    <string name="bort">Борт</string>
+    <string name="fuel">Топливо</string>
+    <string name="ves">Вес</string>
+    <string name="wind">Ветер</string>
+    <string name="change">Перевод</string>
+    <string name="dist">Расстояние</string>
+    <string name="alt">Запасной</string>
+    <string name="gob">Gобщ</string>
+    <string name="gpol">Gпол</string>
+    <string name="galt">Gзап</string>
+    <string name="gtime">Время</string>
+    <string name="gras">Расчитать</string>
+    <string name="ek">Пилот</string>
+    <string name="r1">1ряд</string>
+    <string name="aa">A</string>
+    <string name="r2">2ряд</string>
+    <string name="bb">B</string>
+    <string name="r3">3ряд</string>
+    <string name="cc">C</string>
+    <string name="bb4">B4</string>
+    <string name="dd">D</string>
+    <string name="bb6">B6</string>
+    <string name="tKs">TKS</string>
+    <string name="gVzl">Gвзл</string>
+    <string name="ctr">Ц</string>
+    <string name="cg">CG</string>
+    <string name="nol">0</string>
+    <string name="pus">    </string>
+    <string name="action_settings">Настройка</string>
+    <string name="about_program">О программе</string>
+    <string name="action_exit">Выход</string>
+
+
+
+
+
+</resources>
